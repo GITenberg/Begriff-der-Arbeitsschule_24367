@@ -1,0 +1,30 @@
+_repo: Begriff-der-Arbeitsschule_24367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kerschensteiner, Georg
+    alias: Kerschensteiner, Georg Michael Anton
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '26431'
+    url: http://www.gutenberg.org/2009/agents/26431
+    wikipedia: http://de.wikipedia.org/wiki/Georg_Michael_Kerschensteiner
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24367'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Manual work'
+- !lcsh 'Vocational education'
+title: Begriff der Arbeitsschule
+url: http://www.gutenberg.org/ebooks/24367
